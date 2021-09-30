@@ -1,0 +1,3 @@
+# CSC282
+
+## exercises
